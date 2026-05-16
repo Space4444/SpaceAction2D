@@ -1,3 +1,5 @@
+# Space Action 2D
+
 This is simple 2D space shooter I've made with C++ and Visual Studio 2013 in childhood.
 
 You control a spaceship and fight against alien spaceships. Also you can teleport between planets and use minimap to navigate the star system. 
