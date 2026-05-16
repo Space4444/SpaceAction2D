@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="SpaceAction2D\SpaceAction2D.vcxproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|Win32" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpaceAction2D\Player.h">
+    <Files>
+      <File FileName="SpaceAction2D\Player.h" Line="24" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
