@@ -10,6 +10,9 @@ This is simple 2D space shooter I've made with C++ and Visual Studio 2013 in chi
 
 You control a spaceship and fight against alien spaceships. Also you can teleport between planets and use minimap to navigate the star system.
 
+## Features
+- Procedural generation of background texture
+  
 ## Tech stack
 - [SFML](https://www.sfml-dev.org/)
 
