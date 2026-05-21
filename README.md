@@ -20,3 +20,7 @@ You control a spaceship and fight against alien spaceships. Also you can telepor
 
 This version works only on Windows. To run the game, open SpaceAction2.exe in "Debug" folder.
 You may need to download all .dll files in that folder and place them near the SpaceAction2.exe file.
+
+## License
+
+[MIT](LICENSE) © Space4444
